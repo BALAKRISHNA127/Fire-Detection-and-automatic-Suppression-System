@@ -8,7 +8,7 @@ This project is a smart fire detection and suppression system designed using Ard
 
 ## 📌 Table of Contents
 
-- [Project Description](## 📝 Project Description)
+- [Project Description](#ProjectDescription)
 - [Features](#features)
 - [Components Used](#components-used)
 - [Circuit Diagram](#circuit-diagram)
