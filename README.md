@@ -6,21 +6,6 @@ This project is a smart fire detection and suppression system designed using Ard
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Description](#ProjectDescription)
-- [Features](#features)
-- [Components Used](#components-used)
-- [Circuit Diagram](#circuit-diagram)
-- [How It Works](#how-it-works)
-- [Arduino Code](#arduino-code)
-- [MIT App Integration](#mit-app-integration)
-- [Future Scope](#future-scope)
-- [Team Members](#team-members)
-- [License](#license)
-
----
-
 ## 📝 Project Description
 
 Fire poses a significant threat to life and property, especially in homes, industrial zones, and data centers. This project provides a **cost-effective and automatic** solution to detect flames or gas leakage and **suppress them with a water pump system**. A buzzer and LCD are used for local alerts, and a Bluetooth module (HC-05) sends notifications to users’ smartphones.
